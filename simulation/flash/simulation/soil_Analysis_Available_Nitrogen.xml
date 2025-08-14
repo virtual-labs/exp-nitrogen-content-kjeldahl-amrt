@@ -1,0 +1,990 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DATA>
+<SCENE ID="1intro">
+	<TEXT ID="1intro_one">
+	<TEXTVALUE>Click on each apparatus/reagents to know its name or click on “Continue” to start the experiment.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="254tkppr">
+	<TEXT ID="254tkppr_one">
+	<TEXTVALUE>50 g soil is weighed using an electronic balance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="255trit">
+	<TEXT ID="255trit_one">
+	<TEXTVALUE>Place a butter paper above the balance and Tare the balance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="256puronbls">
+	<TEXT ID="256puronbls_one">
+	<TEXTVALUE>Using a spatula take some into the butter paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="257purosoil">
+	<TEXT ID="257purosoil_one">
+	<TEXTVALUE>Using a spatula take some soil into the butter paper and weigh 50 g soil.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="258ptksoil">
+	<TEXT ID="258ptksoil_one">
+	<TEXTVALUE>Take the butter paper containing soil.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="259purinflsk">
+	<TEXT ID="259purinflsk_one">
+	<TEXTVALUE>Transfer the soil into a clean 500 ml Kjeldahl flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="260plcppr">
+	<TEXT ID="260plcppr_one">
+	<TEXTVALUE>Place a butter paper and tare the balance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="261tkcuso4">
+	<TEXT ID="261tkcuso4_one">
+	<TEXTVALUE>Using spatula take some CuSO₄.Transfer the CuSO₄ into the butter baper and weigh 1g.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="262tktoflsk">
+	<TEXT ID="262tktoflsk_one">
+	<TEXTVALUE>Take the butter paper containing CuSO₄.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="263dropinflask">
+	<TEXT ID="263dropinflask_one">
+	<TEXTVALUE>And transfer that into Kjeldahl flask containing soil.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="264tkK2SO4">
+	<TEXT ID="264tkK2SO4_one">
+	<TEXTVALUE>Using spatula take some K₂SO₄.Transfer the K₂SO₄into the butter paper and weigh 10g.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="264tkK2SO4_two">
+	<TEXTVALUE>K₂SO₄bottle is kept back.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="265tktoflskK2SO4">
+	<TEXT ID="265tktoflskK2SO4_one">
+	<TEXTVALUE>Take the butter paper containing K₂SO₄.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="266dropinflaskkura">
+	<TEXT ID="266dropinflaskkura_one">
+	<TEXTVALUE>And transfer it into Kjeldahl flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="267tkflsk">
+	<TEXT ID="267tkflsk_one">
+	<TEXTVALUE>Shake the flask to mix it well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="268shakit">
+	<TEXT ID="268shakit_one">
+	<TEXTVALUE>Shake the flask to mix it well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="269replaceit">
+	<TEXT ID="269replaceit_one">
+	<TEXTVALUE>And keep it back.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="270tkH²so4">
+	<TEXT ID="270tkH²so4_one">
+	<TEXTVALUE>Add 30 mL con. H₂SO₄.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="271dropit">
+	<TEXT ID="271dropit_one">
+	<TEXTVALUE>Add 30 mL con. H₂SO₄.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="272dropit">
+	<TEXT ID="272dropit_one">
+	<TEXTVALUE>Frothing appears.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="273replacit">
+	<TEXT ID="273replacit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="274tkforsh">
+	<TEXT ID="274tkforsh_one">
+	<TEXTVALUE>Shake the contents of the flask to mix.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="275shkwell">
+	<TEXT ID="275shkwell_one">
+	<TEXTVALUE>Shake the contents of the flask to mix.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="276replaceit">
+	<TEXT ID="276replaceit_one">
+	<TEXTVALUE>After thorough mixing allow to stand for at least 30 minutes with frequent shaking.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="277wti30minute">
+	<TEXT ID="277wti30minute_one">
+	<TEXTVALUE>After thorough mixing allow to stand for at least 30 minutes with frequent shaking.</TEXTVALUE>
+	</TEXT>
+	<TEXT ID="277wti30minute_two">
+	<TEXTVALUE>After 30 minutes take the Kjeldahl flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="278placonburnes">
+	<TEXT ID="278placonburnes_one">
+	<TEXTVALUE>Clamp it on an iron stand in a fume hood (Don't allow to touch the flask in Electric Bunsen).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="279preparationofblank">
+	<TEXT ID="279preparationofblank_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="280tirit">
+	<TEXT ID="280tirit_one">
+	<TEXTVALUE>Place a butter paper into the balance and Tare.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="281tkcu">
+	<TEXT ID="281tkcu_one">
+	<TEXTVALUE>Using a spatula Take some CuSO₄.Transfer it in to the butter paper and weigh 1g CuSO₄using electronic balance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="282tkpeprwithcu">
+	<TEXT ID="282tkpeprwithcu_one">
+	<TEXTVALUE>Take the butter paper containing CuSO₄.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="283porinflask">
+	<TEXT ID="283porinflask_one">
+	<TEXTVALUE>Transfer it into a clean 500 ml Kjeldahl Flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="284tirit">
+	<TEXT ID="284tirit_one">
+	<TEXTVALUE>Place a butter paper into the balance and Tare.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="285pur2so4">
+	<TEXT ID="285pur2so4_one">
+	<TEXTVALUE>Take K₂SO₄.Using a spatula take some K₂SO₄.Transfer some K₂SO₄ into the butter paper.Weigh 10 g K₂SO₄ using electronic balance.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="286tkk2so4">
+	<TEXT ID="286tkk2so4_one">
+	<TEXTVALUE>Take the butter paper containing K₂SO₄.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="287tporinflsk">
+	<TEXT ID="287tporinflsk_one">
+	<TEXTVALUE>Transfer it into Kjeldahl flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="288tktheflsk">
+	<TEXT ID="288tktheflsk_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="289shakit">
+	<TEXT ID="289shakit_one">
+	<TEXTVALUE>Shake the flask to mix it well.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="290replacit">
+	<TEXT ID="290replacit_one">
+	<TEXTVALUE>And keep it back.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="291tkh2so4">
+	<TEXT ID="291tkh2so4_one">
+	<TEXTVALUE>Add 30 mL con. H₂SO₄.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="292purh2so4">
+	<TEXT ID="292purh2so4_one">
+	<TEXTVALUE>Add 30 mL con. H₂SO₄.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="293closup">
+	<TEXT ID="293closup_one">
+	<TEXTVALUE>Frothing appears.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="294replseit">
+	<TEXT ID="294replseit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="295tksampe">
+	<TEXT ID="295tksampe_one">
+	<TEXTVALUE>Shake the contents of the flask to mix.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="296shkwellblank02">
+	<TEXT ID="296shkwellblank02_one">
+	<TEXTVALUE>Shake the contents of the flask to mix.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="297replaceitd">
+	<TEXT ID="297replaceitd_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="298wti30minute02">
+	<TEXT ID="298wti30minute02_one">
+	<TEXTVALUE>After thorough mixing allow to stand for at least 30 minutes with frequent shaking.After 30 minutes Take the Kjeldahl flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="299placeblank">
+	<TEXT ID="299placeblank_one">
+	<TEXTVALUE>Clamp it in an iron stand in a fume hood (Don't allow to touch the flask in Electric Bunsen).</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="300onswitch">
+	<TEXT ID="300onswitch_one">
+	<TEXTVALUE>Switch on the both Electric Bunsens.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="301in3minits">
+	<TEXT ID="301in3minits_one">
+	<TEXTVALUE>Digest for about 2 hrs. Digestion is effected on the Kjeldahl digestion rack with low flame for the first 10-30 min until the frothing stops.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="301A2hours">
+	<TEXT ID="301A2hours_one">
+	<TEXTVALUE>Until the frothing stops and then gradually more strongly until the sample is completely charred. The heat is gradually raised until the acid reaches approximately one third the way up the digestion-flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+<SCENE ID="302switchoff">
+	<TEXT ID="302switchoff_one">
+	<TEXTVALUE>After 2 hrs Switch off both bunsens.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="303alowtocoll">
+	<TEXT ID="303alowtocoll_one">
+	<TEXTVALUE>Remove the Bunsen. Wait for 30 minutes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="304tksampl">
+	<TEXT ID="304tksampl_one">
+	<TEXTVALUE>After cooling first take the Kjeldahl flask which is labelled as SAMPLE from the fume hood.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="305plceinbkr">
+	<TEXT ID="305plceinbkr_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="306tkwtr">
+	<TEXT ID="306tkwtr_one">
+	<TEXTVALUE>Take a wash bottle containing distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="307pru100ml">
+	<TEXT ID="307pru100ml_one">
+	<TEXTVALUE>Measure 100 ml of water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="308tkit">
+	<TEXT ID="308tkit_one">
+	<TEXTVALUE>Measure 100 ml of water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="309purit">
+	<TEXT ID="309purit_one">
+	<TEXTVALUE>And transfer the water into the flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="310tkit">
+	<TEXT ID="310tkit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="311shakit">
+	<TEXT ID="311shakit_one">
+	<TEXTVALUE>Swirl the flask about 2 minutes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="312dropit">
+	<TEXT ID="312dropit_one">
+	<TEXTVALUE>Transfer the fluid part to a 1000 ml RB flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="313replacit">
+	<TEXT ID="313replacit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="314tkwtr">
+	<TEXT ID="314tkwtr_one">
+	<TEXTVALUE>Wash the residue left in the Kjeldahl flask with 4 or 5 lots of 50–60 mL distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="315pru50ml">
+	<TEXT ID="315pru50ml_one">
+	<TEXTVALUE>Wash the residue left in the Kjeldahl flask with 4 or 5 lots of 50–60 mL distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="316purit">
+	<TEXT ID="316purit_one">
+	<TEXTVALUE>Measure 50 mL water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="317pur50">
+	<TEXT ID="317pur50_one">
+	<TEXTVALUE>And transfer the water into the flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="3188tkit02">
+	<TEXT ID="3188tkit02_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="319dropit02">
+	<TEXT ID="319dropit02_one">
+	<TEXTVALUE>Decant the washing into the RB flask.Repeat it two or three times.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="320replacit03">
+	<TEXT ID="320replacit03_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="321tkrbflask">
+	<TEXT ID="321tkrbflask_one">
+	<TEXTVALUE>Add a few, glass bead to prevent bumping and take the RB flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="322placeit">
+	<TEXT ID="322placeit_one">
+	<TEXTVALUE>Place the RB flask in a heating mantle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="323fixit">
+	<TEXT ID="323fixit_one">
+	<TEXTVALUE>To the one neck connect the dropping funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="323fixfanal">
+	<TEXT ID="323fixfanal_one">
+	<TEXTVALUE>To the other neck connect the Kjeldahl Trap.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="324fixjoint">
+	<TEXT ID="324fixjoint_one">
+	<TEXTVALUE>Connect a dropping funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="325fixtub">
+	<TEXT ID="325fixtub_one">
+	<TEXTVALUE>Connect a Kjeldhal trap.Place an iron stand. The trap is connected to the condenser with a delivery tube.Attach one rubber tube to the inlet of the condenser.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="326tknhcl">
+	<TEXT ID="326tknhcl_one">
+	<TEXTVALUE>Take a 250 ml conical flask and to that conical flask add 25ml 0.1 N HCl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="327purinflask">
+	<TEXT ID="327purinflask_one">
+	<TEXTVALUE>Take a 250 ml conical flask and to that conical flask add 25ml 0.1 N HCl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="328recapit">
+	<TEXT ID="328recapit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="329tkred">
+	<TEXT ID="329tkred_one">
+	<TEXTVALUE>Take methyl red indicator using a dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="330tkflaskinit">
+	<TEXT ID="330tkflaskinit_one">
+	<TEXTVALUE>And to the 25 mL 0.1 N HCl add two drops of methyl red indicator.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="331tkflaskinit">
+	<TEXT ID="331tkflaskinit_one">
+	<TEXTVALUE>Take the conical flask.Properly place it below the condenser.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="33240%">
+	<TEXT ID="33240%_one">
+	<TEXTVALUE>Measure 125 ml 40 % NaOH solution using a clean measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="333tkjar">
+	<TEXT ID="333tkjar_one">
+	<TEXTVALUE>Measure 125 ml 40 % NaOH solution using a clean measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="334tkpurinfnal">
+	<TEXT ID="334tkpurinfnal_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="335fillit">
+	<TEXT ID="335fillit_one">
+	<TEXTVALUE>Transfer the NaOH solution to the dropping funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="335afillit">
+	<TEXT ID="335afillit_one">
+	<TEXTVALUE>Allow to fall down the 40 % NaOH solution into the RB flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="336replaceit">
+	<TEXT ID="336replaceit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="337switchon">
+	<TEXT ID="337switchon_one">
+	<TEXTVALUE>Switch on and adjust the temperature of the heating mantle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="339linedrow02">
+	<TEXT ID="339linedrow02_one">
+	<TEXTVALUE>Allow the ammonia formed to be absorbed in the HCl in conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="340relesflask">
+	<TEXT ID="340relesflask_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="341tkdistldwtr">
+	<TEXT ID="341tkdistldwtr_one">
+	<TEXTVALUE>Take wash bottle containing distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="342wetit">
+	<TEXT ID="342wetit_one">
+	<TEXTVALUE>Wash down the end of the tube using distilled water into the conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="343tkppr">
+	<TEXT ID="343tkppr_one">
+	<TEXTVALUE>Take a red litmus paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="344wetppr">
+	<TEXT ID="344wetppr_one">
+	<TEXTVALUE>Using a wash bottle wet the litmus paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="345showontube">
+	<TEXT ID="345showontube_one">
+	<TEXTVALUE>Show the wet red litmus paper in the mouth of the delivery tube, Absence of colour change shows no more ammonia is received.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="346offheter">
+	<TEXT ID="346offheter_one">
+	<TEXTVALUE>Stop the distillation.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="347tkbrt">
+	<TEXT ID="347tkbrt_one">
+	<TEXTVALUE>Take a clean burette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="348opnit">
+	<TEXT ID="348opnit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="349tknaoH">
+	<TEXT ID="349tknaoH_one">
+	<TEXTVALUE>Take 0.1 N NaOH.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="350tknaoH">
+	<TEXT ID="350tknaoH_one">
+	<TEXTVALUE>Fill the burette with 0.1 N NaOH.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="351replacit">
+	<TEXT ID="351replacit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="352fixonstant">
+	<TEXT ID="352fixonstant_one">
+	<TEXTVALUE>Clamp the burette on stand.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="353tkflask">
+	<TEXT ID="353tkflask_one">
+	<TEXTVALUE>Take the conical flask from the distillation assembly.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="354plcbrt">
+	<TEXT ID="354plcbrt_one">
+	<TEXTVALUE>Place it below the burette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="355opnit">
+	<TEXT ID="355opnit_one">
+	<TEXTVALUE>Titrate the excess of the acid with 0.1 N NaOH solution. Titrate till the pink colour changes to yellow, Note the titre value and from the titre value calculate the multi equivalence of the acid participating in the process of ammonia absorbing during digestion.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="356heding">
+	<TEXT ID="356heding_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="357tkblank">
+	<TEXT ID="357tkblank_one">
+	<TEXTVALUE>Take the Kjeldahl flask containing BLANK solution from the fume hood.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="358plcinbkr">
+	<TEXT ID="358plcinbkr_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="359tkwtr">
+	<TEXT ID="359tkwtr_one">
+	<TEXTVALUE>Take distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="360purit">
+	<TEXT ID="360purit_one">
+	<TEXTVALUE>Measure 100ml distilled water using a clean measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="361tkjar">
+	<TEXT ID="361tkjar_one">
+	<TEXTVALUE>Measure 100ml distilled water using a clean measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="362purinblank">
+	<TEXT ID="362purinblank_one">
+	<TEXTVALUE>Transfer that into the Kjeldahl flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="363tkblank">
+	<TEXT ID="363tkblank_one">
+	<TEXTVALUE>Swirl the flask about 2 minutes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="364shakwell">
+	<TEXT ID="364shakwell_one">
+	<TEXTVALUE>Swirl the flask about 2 minutes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="365purinrbflask">
+	<TEXT ID="365purinrbflask_one">
+	<TEXTVALUE>Transfer the fluid part to a 1000 ml RB flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="366replacit">
+	<TEXT ID="366replacit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="367tkwtr02">
+	<TEXT ID="367tkwtr02_one">
+	<TEXTVALUE>Wash the residue left in Kjeldahl flask with 50-60ml distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="368fil50ml">
+	<TEXT ID="368fil50ml_one">
+	<TEXTVALUE>Measure 50 ml distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="369tkit">
+	<TEXT ID="369tkit_one">
+	<TEXTVALUE>Measure 50 ml distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="370purinflask">
+	<TEXT ID="370purinflask_one">
+	<TEXTVALUE>Transfer the water into flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="371tkflask">
+	<TEXT ID="371tkflask_one">
+	<TEXTVALUE>Swirl the flask about 2 minutes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="372shakit">
+	<TEXT ID="372shakit_one">
+	<TEXTVALUE>Swirl the flask about 2 minutes.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="373purinflash">
+	<TEXT ID="373purinflash_one">
+	<TEXTVALUE>Decant the washings into the RB flask, Repeat it two or three times.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="374replaceit">
+	<TEXT ID="374replaceit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="375tkrbflask">
+	<TEXT ID="375tkrbflask_one">
+	<TEXTVALUE>Add a few, glass bead to prevent bumping and take the RB flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="376fixRBflask">
+	<TEXT ID="376fixRBflask_one">
+	<TEXTVALUE>Place the RB flask in a heating mantle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="377fixjoint">
+	<TEXT ID="377fixjoint_one">
+	<TEXTVALUE>Fit the RB flask with two neck joint.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="378fixfanal">
+	<TEXT ID="378fixfanal_one">
+	<TEXTVALUE>To the one neck, connect a dropping funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="379fixboule">
+	<TEXT ID="379fixboule_one">
+	<TEXTVALUE>To the other neck, connect a Kjeldhal trap.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="380fixtube">
+	<TEXT ID="380fixtube_one">
+	<TEXTVALUE>Place an iron stand. The trap is connected to the condenser with a delivery tube.Attach one rubber tube to the inlet of the condenser. Attach another rubber tube to the outlet of the condenser.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="381tk0.1nhcl">
+	<TEXT ID="381tk0.1nhcl_one">
+	<TEXTVALUE>Take a 250 ml conical flask and to that conical flask add 25ml 0.1 N HCl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="382dropinflask">
+	<TEXT ID="382dropinflask_one">
+	<TEXTVALUE>Take a 250 ml conical flask and to that conical flask add 25ml 0.1 N HCl.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="383recapit">
+	<TEXT ID="383recapit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="384oppnredmeth">
+	<TEXT ID="384oppnredmeth_one">
+	<TEXTVALUE>Take methyl red indicator using a dropper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="385dropit">
+	<TEXT ID="385dropit_one">
+	<TEXTVALUE>And to the 25 mL 0.1 N HCl add two drops of methyl red indicator.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="386fixonstant">
+	<TEXT ID="386fixonstant_one">
+	<TEXTVALUE>Take the conical flask. Properly place it below the condenser.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="387tk40%">
+	<TEXT ID="387tk40%_one">
+	<TEXTVALUE>Measure 125 ml 40 % NaOH solution using a clean measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="388tkjar">
+	<TEXT ID="388tkjar_one">
+	<TEXTVALUE>Measure 125 ml 40 % NaOH solution using a clean measuring jar.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="389purinfanal">
+	<TEXT ID="389purinfanal_one">
+	<TEXTVALUE>Transfer the NaOH solution to the dropping funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="390puzoom">
+	<TEXT ID="390puzoom_one">
+	<TEXTVALUE>Transfer the NaOH solution to the dropping funnel.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="391replaceit">
+	<TEXT ID="391replaceit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="392adjknob">
+	<TEXT ID="392adjknob_one">
+	<TEXTVALUE>Switch on and adjust the temperature of the heating mantle.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="393linedrow03">
+	<TEXT ID="393linedrow03_one">
+	<TEXTVALUE>Allow the ammonia formed to be absorbed in the HCl in conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="394relesflask">
+	<TEXT ID="394relesflask_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="395tkwtr">
+	<TEXT ID="395tkwtr_one">
+	<TEXTVALUE>Take wash bottle containing distilled water.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="396washit">
+	<TEXT ID="396washit_one">
+	<TEXTVALUE>Wash down the end of the tube using distilled water into the conical flask.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="397tklitmus">
+	<TEXT ID="397tklitmus_one">
+	<TEXTVALUE>Take a red litmus paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="398wet">
+	<TEXT ID="398wet_one">
+	<TEXTVALUE>Using a wash bottle wet the litmus paper.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+<SCENE ID="399showonmouth">
+	<TEXT ID="399showonmouth_one">
+	<TEXTVALUE>Show the wet red litmus paper in the mouth of the delivery tube, Absence of colour change shows no more ammonia is received.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="400offbrner">
+	<TEXT ID="400offbrner_one">
+	<TEXTVALUE>Stop the distillation.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="401tkfrm">
+	<TEXT ID="401tkfrm_one">
+	<TEXTVALUE>Take a clean burette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="402opnit">
+	<TEXT ID="402opnit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="403tknaoh">
+	<TEXT ID="403tknaoh_one">
+	<TEXTVALUE>Take 0.1 N NaOH.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="404fillit">
+	<TEXT ID="404fillit_one">
+	<TEXTVALUE>Fill the burette with 0.1 N NaOH.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="405replacit">
+	<TEXT ID="405replacit_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="406reinstant">
+	<TEXT ID="406reinstant_one">
+	<TEXTVALUE>Clamp the burette on stand.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="407flasktk">
+	<TEXT ID="407flasktk_one">
+	<TEXTVALUE>Take the conical flask from the distillation assembly.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="408plcundrtube">
+	<TEXT ID="408plcundrtube_one">
+	<TEXTVALUE>Place it below the burette.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="409oppnzoom">
+	<TEXT ID="409oppnzoom_one">
+	<TEXTVALUE>Titrate the excess of the acid with 0.1 N NaOH solution. Titrate till the pink colour changes to yellow, Note the titre value and from the titre value calculate the multi equivalence of the acid participating in the process of ammonia absorbing during digestion.</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="410eqtion">
+	<TEXT ID="410eqtion_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+<SCENE ID="411eqtion02">
+	<TEXT ID="411eqtion02_one">
+	<TEXTVALUE>notext</TEXTVALUE>
+	</TEXT>
+</SCENE>
+
+
+
+</DATA>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

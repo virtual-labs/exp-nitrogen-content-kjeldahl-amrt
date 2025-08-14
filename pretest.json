@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Balance the equation C2H5(OH)NH2COO + H2SO4 → (NH4)2SO4 + SO2 + 14 CO2 + H2O",
+      "answers": {
+        "a": "2, 29, 24, 17, 28",
+        "b": "2, 25, 14, 28, 26",
+        "c": "2, 26, 25, 14, 28",
+        "d": "2, 24, 25, 12, 30"
+      },
+      "explanations": {
+        "a": "Incorrect stoichiometric balance.",
+        "b": "Incorrect stoichiometric balance.",
+        "c": "Correctly balanced equation.",
+        "d": "Incorrect stoichiometric balance."
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Which one of the following inorganic forms of nitrogen predominates in the soil?",
+      "answers": {
+        "a": "N2",
+        "b": "NO3⁻",
+        "c": "NO2",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "N2 is present but not in usable form.",
+        "b": "Correct. Nitrate (NO3⁻) is the predominant usable inorganic form.",
+        "c": "Nitrite (NO2) is less stable in soil.",
+        "d": "Incorrect. Nitrate is present."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "The process by which organic nitrogen is converted to nitrate through bacterial activity is known as?",
+      "answers": {
+        "a": "Aminization",
+        "b": "Immobilisation",
+        "c": "Denitrification",
+        "d": "Nitrification"
+      },
+      "explanations": {
+        "a": "Conversion to amines, not nitrate.",
+        "b": "Immobilization retains N in organic form.",
+        "c": "Denitrification is the reduction of nitrate.",
+        "d": "Correct. Nitrification converts NH4+ to NO3⁻."
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "In which condition does denitrification occur?",
+      "answers": {
+        "a": "Oxygen and nitrogen limiting condition",
+        "b": "Oxygen excess condition",
+        "c": "Oxygen limiting condition",
+        "d": "Nitrogen limiting condition"
+      },
+      "explanations": {
+        "a": "Partially correct, but not necessary to be N-limited.",
+        "b": "Incorrect. Denitrification is anaerobic.",
+        "c": "Correct. Denitrification occurs under low oxygen.",
+        "d": "Nitrogen must be available to be reduced."
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "The microbial transformation of organic nitrogen to inorganic forms is referred to as?",
+      "answers": {
+        "a": "Aminization",
+        "b": "Immobilisation",
+        "c": "Ammonification",
+        "d": "Mineralization"
+      },
+      "explanations": {
+        "a": "Partial process producing amines.",
+        "b": "Opposite process (organic N retention).",
+        "c": "Ammonification is part of mineralization.",
+        "d": "Correct. Mineralization includes all microbial conversion to inorganic forms."
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    }
+  ]
+}
